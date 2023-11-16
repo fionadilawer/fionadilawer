@@ -2,7 +2,10 @@
 
 I'm a passionate MERN stack developer with a keen interest in building scalable web applications. I have experience working with a variety of technologies and tools, including React, Redux, Node.js, Express.js, MongoDB, MySQL, Docker, Kubernetes, and AWS.
 
-## About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 - 🔭 I’m currently working on MERNflix
 - 🌱 I’m currently learning [GraphQL] and [TypeScript](https://www.typescriptlang.org/)
