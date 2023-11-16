@@ -10,21 +10,22 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 - 😄 Pronouns: She/Her
 - 💼 I'm open to new opportunities and collaborations.
 - 🎮 In my free time, I enjoy playing video games and watching sci-fi movies.
-
-### Connect with Me 🤝
-
 ## 🤝🏻 Connect with me
 <picture>
   <a href="mailto:zaheerh4ck3r@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/+923195679902">
-    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="30px"/>
   </a>
   <a href="https://www.linkedin.com/in/zaheerh4ck3r/">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px"/>
+  </a>
+  <a href="https://twitter.com/your_twitter_handle">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30px"/>
+  </a>
+  <a href="https://facebook.com/your_facebook_profile">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="30px"/>
   </a>
 </picture>
+
 
 <br />
 <br />
