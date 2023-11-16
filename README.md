@@ -57,7 +57,6 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg" />][aws]
 
 <br />
-
 ## GitHub Profile Stats
 
 ![Fiona Dilawer's GitHub stats](https://github-readme-stats.vercel.app/api?username=fionadilawer&show_icons=true&theme=radical)
