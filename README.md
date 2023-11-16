@@ -62,7 +62,13 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 
 ## GitHub Profile Stats
 
-![Fiona Dilawer's GitHub stats](https://github-readme-stats.vercel.app/api?username=fionadilawer&show_icons=true&theme=radical)
+## ⚙️ GitHub Profile Stats 💻
+<p align="center">
+<a href="https://github.com/fionadilawer">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fionadilawer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fionadilawer&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 [linkedin]: https://www.linkedin.com/in/fionadilawer/
 [twitter]: https://twitter.com/fionadilawer
