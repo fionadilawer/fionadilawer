@@ -33,11 +33,13 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 
 ### Frontend
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" />][react]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />][react]
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redux.svg" />][redux]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" />][javascript]
+[<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />][sass]
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][typescript]
 
 <br />
 
@@ -47,6 +49,8 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 [<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" />][express]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" />][mongodb]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" />][mysql]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />][graphql]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 
 <br />
 
@@ -55,8 +59,12 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg" />][docker]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg" />][kubernetes]
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg" />][aws]
+[<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />][jenkins]
+[<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" />][ansible]
+[<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />][terraform]
 
 <br />
+
 ## GitHub Profile Stats
 
 ![Fiona Dilawer's GitHub stats](https://github-readme-stats.vercel.app/api?username=fionadilawer&show_icons=true&theme=radical)
@@ -74,6 +82,12 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 [express]: https://expressjs.com/
 [mongodb]: https://www.mongodb.com/
 [mysql]: https://www.mysql.com/
+[graphql]: https://graphql.org/
+[python]: https://www.python.org/
 [docker]: https://www.docker.com/
 [kubernetes]: https://kubernetes.io/
 [aws]: https://aws.amazon.com/
+[jenkins]: https://www.jenkins.io/
+[ansible]: https://www.ansible.com/
+[terraform]: https://www.terraform.io/
+[sass]:
