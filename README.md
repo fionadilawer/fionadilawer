@@ -28,36 +28,55 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 [instagram]: https://www.instagram.com/fionadilawer/
 [facebook]: https://www.facebook.com/fionadilawer/
 [email]: mailto:fionadilawer@example.com
+## 🛠 Tech Stack
 
-## Tech Stack
-
-### Frontend
-[<img align="left" alt="HTML" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="React" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-
-<br />
-
-### Backend
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" />][nodejs]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" />][mongodb]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" />][mysql]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />][graphql]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
-
-<br />
-
-### DevOps
-
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg" />][docker]
-[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg" />][kubernetes]
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg" />][aws]
-[<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />][jenkins]
-[<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" />][ansible]
-[<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />][terraform]
-
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img alt="HTML" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="CSS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="JavaScript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="React" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Docker" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="AWS" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  </a>
+</p>
 <br />
 
 
