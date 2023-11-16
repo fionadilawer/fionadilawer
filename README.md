@@ -32,14 +32,13 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 ## Tech Stack
 
 ### Frontend
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />][react]
-[<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redux.svg" />][redux]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" />][javascript]
-[<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />][sass]
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][typescript]
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <br />
 
