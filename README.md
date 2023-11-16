@@ -92,11 +92,14 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 
 ## ⚙️ GitHub Profile Stats 💻
 <p align="center">
-<a href="https://github.com/fionadilawer">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fionadilawer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fionadilawer&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/fionadilawer">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fionadilawer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/fionadilawer">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fionadilawer&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
