@@ -4,8 +4,8 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 
 ## About Me
 
-- 🔭 I’m currently working on [Awesome Blog Platform]
-- 🌱 I’m currently learning [GraphQL] and [TypeScript]
+- 🔭 I’m currently working on MERNflix
+- 🌱 I’m currently learning [GraphQL] and [TypeScript](https://www.typescriptlang.org/)
 - 💬 Ask me about anything related to MERN stack development
 - 😄 Pronouns: She/Her
 - 💼 I'm open to new opportunities and collaborations.
