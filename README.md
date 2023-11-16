@@ -46,7 +46,6 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 ### Backend
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" />][nodejs]
-[<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][express]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" />][mongodb]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" />][mysql]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />][graphql]
@@ -90,4 +89,3 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 [jenkins]: https://www.jenkins.io/
 [ansible]: https://www.ansible.com/
 [terraform]: https://www.terraform.io/
-[sass]:
